@@ -1,0 +1,27 @@
+﻿@model Dominio.Resena
+
+<div class="row text-center">
+    <figure class="col">
+        <img src="/img/logo_mundial - Copia.png" alt="Logo del mundial" class="img-fluid" />
+    </figure>
+
+    <div class="col align-self-center">
+        <h1>Realizar una reseña</h1>
+
+        <form method="post">
+            <input type="text" asp-for="Titulo" class="form-control mb-3" placeholder="Título" />
+
+            <textarea asp-for="Contenido" class="form-control" placeholder="Contenido"></textarea>
+
+            <input type="submit" value="Crear" class="btn btn-outline-primary mt-4 mb-4" />
+        </form>
+
+        <p>@ViewBag.msg</p>
+
+        <div>
+            <a asp-controller="Partido" asp-action="ListarFinalizados">Atrás</a>
+        </div>
+    </div>
+    
+</div>
+    

@@ -1,0 +1,22 @@
+﻿<div class="text-center row">
+    <figure class="col">
+        <img src="~/img/logo_mundial - Copia.png" alt="Logo del mundial" class="img-fluid" />
+    </figure>
+    <div class="col align-self-center">
+        <h1>Iniciar sesión</h1>
+
+        <form method="post">
+            <input type="email" name="email" class="form-control mb-3" placeholder="Email"/>
+            <input type="password" name="pass" class="form-control" placeholder="Contraseña" />
+
+            <input type="submit" value="Ingresar" class="btn btn-outline-primary mt-4 mb-4"/>
+        </form>
+
+        <p>@ViewBag.msg</p>
+
+        <div>
+            <a asp-controller="Home" asp-action="Index">Atrás</a>
+        </div>
+    </div>
+</div>
+

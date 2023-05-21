@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Dominio.Seleccion>
+
+
+<h1>Listado de selecciones</h1>
+
+<table class="table">
+    <tr class="table-info ">
+        <th>Selección</th>
+        <th>Jugadores</th>
+    </tr>
+
+    @foreach (var sel in Model)
+    {
+        <tr>
+            <td>@sel.Pais.Nombre</td>
+            <td>
+                @foreach (var jug in sel.GetJugadores())
+                {
+                    <span>@jug.NombreCompleto, </span>
+                }
+            </td>
+        </tr>
+    }
+</table>
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Atrás</a>
+</div>
+

@@ -1,0 +1,115 @@
+﻿@model Dominio.Partido
+
+<div class="row text-center mb-5">
+    <figure class="col">
+        <img src="/img/mascota_mundial.png" alt="Mascota del mundial" class="img-fluid" />
+    </figure>
+
+    <div class="col align-self-center">
+        <h1>Finalizar partido</h1>
+
+        <form method="post">
+            <label class="col-form-label">¿Desea finalizar el partido @Model.Seleccion1.Pais.Nombre vs @Model.Seleccion2.Pais.Nombre?</label>
+            <input type="checkbox" value="true" name="confirmacion" class="ml-3"/>
+
+            <div>
+                <input type="submit" value="Finalizar" class="btn btn-primary mt-4 mb-4" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<h2 class="mt-5">Datos del partido</h2>
+
+<table class="table">
+    <tr>
+        <th>Fase</th>
+        <th>Fecha</th>
+        <th>@Model.Seleccion1.Pais.Nombre</th>
+        <th>@Model.Seleccion2.Pais.Nombre</th>
+        <th>Resultado del partido</th>
+    </tr>
+
+    <tr>
+        <td>
+            @if (Model.GetTipo() == "Grupo")
+            {
+                <span>Fase de grupos</span>
+            }
+            else if (Model.GetTipo() == "Eliminatorio")
+            {
+                <span>Fase eliminatoria</span>
+            }
+        </td>
+        <td>@Model.FechaHora</td>
+        @{
+                <td>
+                    @foreach (var i in Model.GetIncidencias())
+                    {
+                        if (i.Jugador.Pais.Equals(Model.Seleccion1.Pais))
+                        {
+                            if (i.Tipo == Dominio.TipoIncidencia.Gol)
+                            {
+                                if (i.Minuto.Equals(-1))
+                                {
+                                    <span>Gol: @i.Jugador.NombreCompleto - Tanda de penales</span> <br />
+                                }
+                                else
+                                {
+                                    <span>Gol: @i.Jugador.NombreCompleto - Minuto: @i.Minuto</span> <br />
+                                }
+                            }
+                            else if (i.Tipo == Dominio.TipoIncidencia.Amonestado)
+                            {
+                                <span>Amonestado: @i.Jugador.NombreCompleto - Minuto: @i.Minuto</span> <br />
+                            }
+                            else
+                            {
+                                <span>Expulsado: @i.Jugador.NombreCompleto - Minuto: @i.Minuto</span> <br />
+                            }
+                        }
+                    }
+                </td>
+                <td>
+                    @foreach (var i in Model.GetIncidencias())
+                    {
+                        if (i.Jugador.Pais.Equals(Model.Seleccion2.Pais))
+                        {
+                            if (i.Tipo == Dominio.TipoIncidencia.Gol)
+                            {
+                                if (i.Minuto.Equals(-1))
+                                {
+                                    <span>Gol: @i.Jugador.NombreCompleto - Tanda de penales</span> <br />
+                                }
+                                else
+                                {
+                                    <span>Gol: @i.Jugador.NombreCompleto - Minuto: @i.Minuto</span> <br />
+                                }
+                            }
+                            else if (i.Tipo == Dominio.TipoIncidencia.Amonestado)
+                            {
+                                <span>Amonestado: @i.Jugador.NombreCompleto - Minuto: @i.Minuto</span> <br />
+                            }
+                            else
+                            {
+                                <span>Expulsado: @i.Jugador.NombreCompleto - Minuto: @i.Minuto</span> <br />
+                            }
+                        }
+                    }
+                </td>
+            <td>@Model.FinalizarPartido()</td>
+            if (ViewBag.get || !ViewBag.confirmacion)
+            {
+                Model.Finalizado = false;
+            }
+        }
+    </tr>
+        
+</table>
+
+<p>@ViewBag.msg</p>
+
+<div>
+    <a asp-controller="Partido" asp-action="Index">Atrás</a>
+</div>

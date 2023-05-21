@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Dominio.Partido>
+
+<h1>Partidos finalizados</h1>
+
+<table class="table">
+    <tr class="table-info">
+        <th>Fecha</th>
+        <th>Selección 1</th>
+        <th>Selección 2</th>
+        <th></th>
+    </tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.FechaHora</td>
+            <td>@p.Seleccion1.Pais.Nombre</td>
+            <td>@p.Seleccion2.Pais.Nombre</td>
+            <td>@Html.ActionLink("Realizar reseña", "Create", "Resena", new { id = p.Id })</td>
+        </tr>
+    }
+</table>
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Atrás</a>
+</div>

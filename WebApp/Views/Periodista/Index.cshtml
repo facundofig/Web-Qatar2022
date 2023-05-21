@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Dominio.Periodista>
+
+<h1>Listado de periodistas</h1>
+
+<table class="table">
+    <tr class="table-info">
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Email</th>
+        <th></th>
+    </tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Nombre</td>
+            <td>@p.Apellido</td>
+            <td>@p.Email</td>
+            <td>@Html.ActionLink("Reseñas", "ListarResenas", new { id = p.Id} )</td>
+        </tr>
+    }
+</table>
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Atrás</a>
+</div>

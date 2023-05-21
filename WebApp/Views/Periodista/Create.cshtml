@@ -1,0 +1,30 @@
+﻿@model Dominio.Periodista
+
+<div class="text-center row">
+    <figure class="col">
+        <img src="/img/logo_mundial - Copia.png" alt="Logo del mundial" class="img-fluid" />
+    </figure>
+    <div class="col align-self-center">
+        <h1>Registro de periodista</h1>
+
+        <form method="post">
+            <input type="text" asp-for="Nombre" class="form-control mb-3" placeholder="Nombre" />
+
+            <input type="text" asp-for="Apellido" class="form-control mb-3" placeholder="Apellido" />
+
+            <input type="email" asp-for="Email" class="form-control mb-3" placeholder="Email" />
+
+            <input type="password" asp-for="Password" class="form-control" placeholder="Contraseña" />
+
+            <input type="submit" value="Registrar" class="btn btn-outline-primary mt-4 mb-4" />
+        </form>
+
+        <p>@ViewBag.msg</p>
+
+        <div>
+            <a asp-controller="Home" asp-action="Index">Atrás</a>
+        </div>
+    </div>
+    
+
+</div>

@@ -1,0 +1,102 @@
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\Index.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\ListarFinalizados.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resena\Create.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\MisResenas.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\PartidosEntreFechas.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\ListarResenas.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Operador\Estadisticas.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Operador\Estadisticas.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\ListarFinalizados.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\PartidosEntreFechas.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\ListarResenas.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\MisResenas.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resena\Create.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\Index.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\FinalizarPartido.cshtml.g.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\FinalizarPartido.cshtml.g.cs

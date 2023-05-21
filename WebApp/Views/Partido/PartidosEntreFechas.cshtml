@@ -1,0 +1,99 @@
+﻿@model IEnumerable<Dominio.Partido>
+
+<div class="row text-center mb-5">
+    <figure class="col">
+        <img src="/img/mascota_mundial.png" alt="Mascota del mundial" class="img-fluid" />
+    </figure>
+
+    <div class="col align-self-center">
+        <h1>Partidos jugados entre ciertas fechas</h1>
+
+        <form method="post">
+            <label>Fecha inicial: </label>
+            <input type="date" name="fechaInicial" />
+
+            <label>Fecha final: </label>
+            <input type="date" name="fechaFinal" />
+
+            <input type="submit" value="Buscar" class="btn btn-primary mt-4 mb-4" />
+        </form>
+    </div>
+</div>
+
+
+
+@if (Model != null)
+{
+    <table class="table">
+        <tr class="table-info">
+            <th>Selecciones</th>
+            <th>Goles</th>
+            <th>Tarjetas amarillas</th>
+            <th>Tarjetas rojas</th>
+        </tr>
+
+        @foreach (var p in Model)
+        {
+            int golesSeleccion1 = 0;
+            int golesSeleccion2 = 0;
+            int amarillasSeleccion1 = 0;
+            int amarillasSeleccion2 = 0;
+            int rojasSeleccion1 = 0;
+            int rojasSeleccion2 = 0;
+
+            foreach (var i in p.GetIncidencias())
+            {
+                if (i.Jugador.Pais.Equals(p.Seleccion1.Pais))
+                {
+                    if (i.Tipo == Dominio.TipoIncidencia.Gol)
+                    {
+                        golesSeleccion1++;
+                    }
+                    else if (i.Tipo == Dominio.TipoIncidencia.Amonestado)
+                    {
+                        amarillasSeleccion1++;
+                    }
+                    else
+                    {
+                        rojasSeleccion1++;
+                    }
+                }
+                else if (i.Jugador.Pais.Equals(p.Seleccion2.Pais))
+                {
+                    if (i.Tipo == Dominio.TipoIncidencia.Gol)
+                    {
+                        golesSeleccion2++;
+                    }
+                    else if (i.Tipo == Dominio.TipoIncidencia.Amonestado)
+                    {
+                        amarillasSeleccion2++;
+                    }
+                    else
+                    {
+                        rojasSeleccion2++;
+                    }
+                }
+            }
+
+            <tr>
+                <td>@p.Seleccion1.Pais.Nombre vs @p.Seleccion2.Pais.Nombre</td>
+                <td>
+                    @p.Seleccion1.Pais.Nombre: @golesSeleccion1 <br />
+                    @p.Seleccion2.Pais.Nombre: @golesSeleccion2
+                </td>
+                <td>
+                    @p.Seleccion1.Pais.Nombre: @amarillasSeleccion1 <br />
+                    @p.Seleccion2.Pais.Nombre: @amarillasSeleccion2
+                </td>
+                <td>
+                    @p.Seleccion1.Pais.Nombre: @rojasSeleccion1 <br />
+                    @p.Seleccion2.Pais.Nombre: @rojasSeleccion2
+                </td>
+            </tr>
+        }
+    </table>
+}
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Atrás</a>
+</div>

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Dominio.Partido>
+
+<h1 class="text-center mb-5">Estadísticas</h1>
+
+<div class="row">
+    <figure>
+        <img src="/img/mascota_mundial.png" alt="Mascota del mundial" class="img-fluid" />
+    </figure>
+    <div class="col align-self-center">
+        <h2>Partidos con tarjeta roja que reseñó un periodista</h2>
+
+        <form method="post" class="mb-5">
+            <div class="input-group">
+                <input type="email" name="emailBuscado" class="form-control" placeholder="Email" />
+
+                <input type="submit" value="Buscar" class="btn btn-outline-primary" />
+            </div>
+        </form>
+        @if (Model != null)
+        {
+            <table class="table">
+                <tr>
+                    <th>Selección 1</th>
+                    <th>Selección 2</th>
+                    <th>Fecha</th>
+                </tr>
+
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@p.Seleccion1.Pais.Nombre</td>
+                        <td>@p.Seleccion2.Pais.Nombre</td>
+                        <td>@p.FechaHora</td>
+                    </tr>
+                }
+            </table>
+
+            <hr />
+        }
+        <h2>Selecciones con más goles</h2>
+
+        @foreach (var s in ViewBag.selecciones)
+        {
+            <span>@s.Pais.Nombre</span> <br />
+        }
+    </div>
+        
+</div>
+
+
+
+
+
+
+
+

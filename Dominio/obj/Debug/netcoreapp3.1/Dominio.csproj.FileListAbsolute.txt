@@ -1,0 +1,30 @@
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio1\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio1\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio1\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio1\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio1\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio1\Implementacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio1\Implementacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio1\Implementacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio1\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio1\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+G:\Mi unidad\ORT - ATI\Semestre_2\Programacion_2\Obligatorios\Obligatorio2\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\alumnoFI\Downloads\Implementacion\Implementacion\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

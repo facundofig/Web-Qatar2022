@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Dominio.Resena>
+@using Dominio
+
+<h1>Reseñas</h1>
+
+<table class="table">
+    <tr class="table-info">
+        <th>Fecha del partido</th>
+        <th>Nombre del grupo</th>
+        <th>Selección 1</th>
+        <th>Selección 2</th>
+        <th>Contenido</th>
+    </tr>
+
+    @foreach (var r in Model)
+    {
+        <tr>
+            <td>@r.Partido.FechaHora</td>
+            <td>@if (r.Partido.GetTipo() == "Grupo")
+                {
+                    Partido_FaseDeGrupos p = (Partido_FaseDeGrupos)r.Partido;
+                    <span>@p.NombreGrupo</span>
+                }
+                else
+                {
+                    <span>Es partido de eliminatoria</span>
+                }
+            </td>
+            <td>@r.Partido.Seleccion1.Pais.Nombre</td>
+            <td>@r.Partido.Seleccion2.Pais.Nombre</td>
+            <td>@r.Contenido</td>
+        </tr>
+    }
+</table>
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Atrás</a>
+</div>
